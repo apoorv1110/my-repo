@@ -2,7 +2,7 @@
 
 A Flask-based API that analyzes and optimizes resumes based on job descriptions using spaCy for NLP and GROQ's LLM for AI-powered feedback.
 
-🟢 **Live API Endpoint**: [https://my-repo-4dtz.onrender.com/smart-upload](https://my-repo-4dtz.onrender.com/smart-upload)
+🟢 **Live API Endpoint**: [https://my-repo-4dtz.onrender.com](https://my-repo-4dtz.onrender.com)
 
 ---
 
